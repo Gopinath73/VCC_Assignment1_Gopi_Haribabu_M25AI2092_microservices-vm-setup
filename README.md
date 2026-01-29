@@ -29,7 +29,7 @@ The service runs on port 5000 and listens on all network interfaces.
 ```bash
 python3 app.py
 
-##On VM-2 (Client)
+### On VM-2 (Client)
 curl http://192.168.64.3:5000
 curl http://192.168.64.3:5000/health
 
