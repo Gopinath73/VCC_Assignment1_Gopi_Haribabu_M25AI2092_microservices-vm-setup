@@ -38,8 +38,6 @@ Successful communication between the two virtual machines confirms correct netwo
 backend/app.py
 ---
 
-## Step D2
-
 ```python
 from flask import Flask, jsonify
 
