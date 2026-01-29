@@ -36,21 +36,4 @@ curl http://<VM1_IP>:5000/health
 **##Outcome**
 Successful communication between the two virtual machines confirms correct network configuration and microservice deployment.
 
-
-## Step C3: Save README
-1. Scroll down
-2. Click **Commit changes**
-3. Leave message as default
-4. Click **Commit**
-
-README is now saved
-
----
-
-# PART D — UPLOAD YOUR CODE FILE (app.py)
-
-## Step D1: Create Folder in Repo
-1. On your repo main page
-2. Click **Add file → Create new file**
-
-At the top, type:
+backend/app.py
